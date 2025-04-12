@@ -1,0 +1,156 @@
+{
+  "cars": [
+    
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "brand": "Toyota",
+      "price": 25000,
+      "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/192443/camry-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "ABS, 6 Airbags, Sunroof, Navigation"
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "price": 22000,
+      "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148156.jpeg?q=80",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "ABS, 4 Airbags, Backup Camera"
+    },
+    {
+      "id": 3,
+      "name": "Tesla Model 3",
+      "brand": "Tesla",
+      "price": 45000,
+      "imageUrl": "https://imgd.aeplcdn.com/1056x594/n/lnk9cva_1595893.jpg?q=80",
+      "fuelType": "Electric",
+      "seatingCapacity": 5,
+      "specs": "Autopilot, Glass Roof, 15\" Touchscreen"
+    },
+    {
+      "id": 4,
+      "name": "BMW X5",
+      "brand": "BMW",
+      "price": 60000,
+      "imageUrl": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/152681/x5-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80&q=80",
+      "fuelType": "Diesel",
+      "seatingCapacity": 7,
+      "specs": "AWD, Panoramic Roof, Leather Seats"
+    },
+    {
+      "id": 5,
+      "name": "Maruti Swift",
+      "brand": "Maruti",
+      "price": 15000,
+      "imageUrl": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/159099/swift-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "ABS, 2 Airbags, Touchscreen Audio"
+    },
+    {
+      "id": 6,
+      "name": "Hyundai Elantra",
+      "brand": "Hyundai",
+      "price": 20000,
+      "imageUrl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/41138/elantra-exterior-right-front-three-quarter-3.jpeg?q=80",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "Sunroof, Wireless Charging, Ventilated Seats"
+    },
+    {
+      "id": 7,
+      "name": "Ford Mustang",
+      "brand": "Ford",
+      "price": 55000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/2024-ford-mustang-gt-australia-36",
+      "fuelType": "Petrol",
+      "seatingCapacity": 4,
+      "specs": "V8 Engine, Leather Seats, Navigation System"
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Malibu",
+      "brand": "Chevrolet",
+      "price": 24000,
+      "imageUrl": "https://images.dealer.com/ddc/vehicles/2022/Chevrolet/Malibu/Sedan/color/Cherry%20Red%20Tintcoat-GSK-114,13,22-640-en_US.jpg",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "Turbocharged Engine, Apple CarPlay, Android Auto"
+    },
+    {
+      "id": 9,
+      "name": "Audi A4",
+      "brand": "Audi",
+      "price": 40000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/2024-audi-a4-avant-review-25",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "Quattro AWD, Virtual Cockpit, Leather Upholstery"
+    },
+    {
+      "id": 10,
+      "name": "Mercedes-Benz C-Class",
+      "brand": "Mercedes-Benz",
+      "price": 42000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/mercedes-amg-c43-2023-review-41",
+      "fuelType": "Diesel",
+      "seatingCapacity": 5,
+      "specs": "AMG Line, Panoramic Sunroof, MBUX System"
+    },
+    {
+      "id": 11,
+      "name": "Rolls-Royce Phantom",
+      "brand": "Rolls-Royce",
+      "price": 450000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/rolls-royce-phantom-series-ii-2023-review-1",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "6.75L V12 Engine, Starlight Headliner, Bespoke Audio System, Rear Theatre Configuration"
+    },
+    {
+      "id": 12,
+      "name": "Bentley Continental GT",
+      "brand": "Bentley",
+      "price": 220000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/bentley-continental-gt-s-2023-review-47",
+      "fuelType": "Petrol",
+      "seatingCapacity": 4,
+      "specs": "6.0L W12 Engine, Diamond Quilted Leather, Naim Audio System, Dynamic Ride System"
+    },
+    {
+      "id": 13,
+      "name": "Lamborghini Urus",
+      "brand": "Lamborghini",
+      "price": 230000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/lamborghini-urus-performante-2023-review-1",
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "specs": "4.0L V8 Twin-Turbo, Carbon Fiber Package, ANIMA Selector, 23-inch Wheels"
+    },
+    {
+      "id": 14,
+      "name": "Porsche 911 GT3",
+      "brand": "Porsche",
+      "price": 180000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/porsche-911-gt3-rs-2023-review-28",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "specs": "4.0L Flat-Six Engine, PDK Transmission, Carbon Ceramic Brakes, Track Package"
+    },
+    {
+      "id": 15,
+      "name": "Maserati MC20",
+      "brand": "Maserati",
+      "price": 210000,
+      "imageUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/maserati-mc20-cielo-2024-review-40",
+      "fuelType": "Petrol",
+      "seatingCapacity": 2,
+      "specs": "3.0L V6 Nettuno Engine, Carbon Fiber Monocoque, Butterfly Doors, Sonus Faber Audio"
+    }
+  ],
+  "totalPages": 2 
+}
