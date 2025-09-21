@@ -1,7 +1,5 @@
 # CarFinder - Your Ultimate Car Discovery Platform
 
-![CarFinder Logo](src/assets/car-svgrepo-com.svg)
-
 [Live Demo](https://car-finder-alpha.vercel.app/)
 
 CarFinder is a modern web application designed to help users discover and explore cars with ease. The platform offers advanced filtering, search capabilities, and detailed car information.
